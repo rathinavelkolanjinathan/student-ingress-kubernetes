@@ -1,6 +1,6 @@
 package com.javaexpress;
 
-import com.javatechie.dto.Blog;
+import com.javaexpress.dto.Blog;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
